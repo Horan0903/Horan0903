@@ -46,22 +46,50 @@
 
 <div align="center">
 
-| 🔥 深入研究 Deep Dive | 🚀 探索中 Exploring | 📚 持续精进 Improving |
-|:---:|:---:|:---:|
-| ⚡ Rust 系统编程 | 🤖 AI / LLM 应用开发 | 🏗️ 微服务架构 |
-| Rust Systems | AI / LLM Apps | Microservices |
-| ☁️ 云原生 (K8s) | 🌐 Web3 & 区块链 | 🎯 算法与数据结构 |
-| Cloud Native | Web3 & Blockchain | Algorithms & DS |
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🔥 深入研究</h3>
+      <h4>Deep Dive</h4>
+      <br/>
+      ⚡ <b>Rust 系统编程</b><br/>
+      <sub>Rust Systems</sub>
+      <br/><br/>
+      ☁️ <b>云原生 (K8s)</b><br/>
+      <sub>Cloud Native</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>🚀 探索中</h3>
+      <h4>Exploring</h4>
+      <br/>
+      🤖 <b>AI / LLM 应用开发</b><br/>
+      <sub>AI / LLM Apps</sub>
+      <br/><br/>
+      🌐 <b>Web3 & 区块链</b><br/>
+      <sub>Web3 & Blockchain</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>📚 持续精进</h3>
+      <h4>Improving</h4>
+      <br/>
+      🏗️ <b>微服务架构</b><br/>
+      <sub>Microservices</sub>
+      <br/><br/>
+      🎯 <b>算法与数据结构</b><br/>
+      <sub>Algorithms & DS</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
-```text
+```js
 const Horan = {
     pronouns: "he/him",
     code: ["Python", "JavaScript", "Go", "Rust"],
     askMeAbout: ["web dev", "tech", "app dev", "open source"],
     currentFocus: "Building things that matter 🌍",
-    funFact: "There are 10 types of people in the world: those who understand binary and those who don't"
+    funFact: "There are 10 types of people: those who understand binary and those who don't"
 };
 ```
 
@@ -71,18 +99,24 @@ const Horan = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Horan0903&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Horan0903&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
+<!-- 主统计卡片 - 使用更稳定的源 -->
+<a href="https://github.com/Horan0903">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Horan0903&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="Horan0903's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Horan0903&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" alt="Top Languages" />
+</a>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Horan0903&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+<!-- Streak 改用更稳定的镜像 -->
+<a href="https://github.com/Horan0903">
+  <img src="https://streak-stats.demolab.com/?user=Horan0903&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+</a>
 
 <br/><br/>
 
 ### 🏆 GitHub 成就 | Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=Horan0903&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=Horan0903&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
 
 </div>
 
