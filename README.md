@@ -99,17 +99,9 @@ const Horan = {
 
 <div align="center">
 
-<!-- 主统计卡片 - 使用更稳定的源 -->
 <a href="https://github.com/Horan0903">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Horan0903&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="Horan0903's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Horan0903&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" alt="Top Languages" />
-</a>
-
-<br/>
-
-<!-- Streak 改用更稳定的镜像 -->
-<a href="https://github.com/Horan0903">
-  <img src="https://streak-stats.demolab.com/?user=Horan0903&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </a>
 
 <br/><br/>
